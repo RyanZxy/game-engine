@@ -1,5 +1,8 @@
 # game-engine
-keep a record of learning progress 
+记录学习过程和实践项目  
+简略做记录，内容待完善
 
-目前进度：
-游戏引擎相关内容，同时学习如何使用Github存放个人项目。
+##1.学习资料整理
+书籍  
+  《游戏引擎架构》
+
