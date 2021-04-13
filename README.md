@@ -6,7 +6,11 @@
 书籍  
     《游戏引擎架构（第二版）》 Jason Gregory 著  叶劲峰 译  
 
-## 1.游戏引擎及源码整理
-  [雷神引擎](https://github.com/id-Software/Quake-2)
+## 1.游戏引擎及资源
+  [雷神引擎](https://github.com/id-Software/Quake-2)  
+  [虚幻引擎](http://udn.epicgames.com/Main/WebHome.html)  
+  [Unity](https://docs.unity3d.com/Manual/index.html)
 
+## 2.C/C++相关
+## 3.
 
